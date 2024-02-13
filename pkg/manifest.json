@@ -1,0 +1,20 @@
+[
+    {
+        "process_name": "p1",
+        "process_wasm_path": "/p1.wasm",
+        "on_exit": "None",
+        "request_networking": false,
+        "request_capabilities": [],
+        "grant_capabilities": [],
+        "public": true
+    },
+    {
+        "process_name": "p2",
+        "process_wasm_path": "/p2.wasm",
+        "on_exit": "None",
+        "request_networking": false,
+        "request_capabilities": [],
+        "grant_capabilities": [],
+        "public": true
+    }
+]
